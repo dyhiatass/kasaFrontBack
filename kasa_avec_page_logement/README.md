@@ -1,0 +1,59 @@
+# arborescence front-end
+.DS_Store
+.gitignore
+README.md
+package-lock.json
+package.json
+public
+  background.jpg
+  favicon.ico
+  index.html
+  left.svg
+  logo.svg
+  logo192.png
+  logo512.png
+  manifest.json
+  right.svg
+  robots.txt
+  star.svg
+  top.svg
+src
+  .DS_Store
+  App.jsx
+  Component
+    Accordion
+      Accordion.jsx
+      style.scss
+    Card
+      Card.jsx
+      style.scss
+    Footer
+      Footer.jsx
+      style.scss
+    Header
+      Header.jsx
+      style.scss
+  Pages
+    .DS_Store
+    Counter
+      Counter.jsx
+      style.css
+    Error404
+      Error404.jsx
+      style.scss
+    Formulaire
+      Formulaire.jsx
+      style.scss
+    Home
+      Home.jsx
+      style.scss
+    Logement
+      Logement.jsx
+      style.scss
+    Pokemon
+      Pokemon.jsx
+      style.scss
+  index.css
+  index.js
+tree.js
+tasseda@MBP-de-TASSEDA kasa_avec_page_logement % 
